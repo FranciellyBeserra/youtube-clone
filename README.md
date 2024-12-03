@@ -97,6 +97,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais in
 Este projeto é inspirado na interface e funcionalidades básicas do YouTube.
 
 ## ❤️ Resultado final
-https://github.com/user-attachments/assets/b4465e49-25f1-4bd9-96b3-7d18f0846513
+https://github.com/user-attachments/assets/9e148ab2-5d4a-4783-b3c7-ed4b8be30432
+
 
 
